@@ -10,7 +10,7 @@ I hope that if anyone sees this to tell me my mistakes and hopefully I will corr
 
 I accept all the criticism.
 
-The main files are named "Company X"
+
 
 The other ones are the images I used, and FontAwesome library.
 
